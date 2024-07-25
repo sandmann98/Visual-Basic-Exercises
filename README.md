@@ -1,2 +1,2 @@
-Here are a number exercises I completed in Visual Basic. While I did get some base code in the beginning, the finished product is mine.
-For these projects, I tried to describe what they are in their title. 
+Here are a number exercises I completedd in Visual Basic. While I was provided with base code, the finished product is mine.
+The projects are described in their title. 
